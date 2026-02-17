@@ -1,6 +1,4 @@
 # Deployment---RAG-AI-Agent-Example
-This directory contains the code for deploying a Retrieval-Augmented Generation (RAG) AI chatbot agent, as discussed in Chapter 9 of "Learning LangChain." This agent is designed to ingest documents and then answer questions based on the content of those documents.
-# Chapter 9: Deployment - RAG AI Agent Example
 
 This directory contains the code for deploying a Retrieval-Augmented Generation (RAG) AI chatbot agent, as discussed in Chapter 9 of "Learning LangChain." This agent is designed to ingest documents and then answer questions based on the content of those documents.
 
